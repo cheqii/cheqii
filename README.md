@@ -38,4 +38,4 @@ I enjoy working together on a fantastic project with people who share my vision 
 
 <a href="https://github.com/cheqii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheqii&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src = "https://drive.google.com/file/d/1A8TfsmfzO9SnxFyDsbXW8L28f1NMcpum/view?usp=sharing">
+<img src = ""C:\Users\cheqii\Downloads\unity-certified-associate-game-developer.png"">
