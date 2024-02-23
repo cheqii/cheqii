@@ -32,10 +32,10 @@ I enjoy working together on a fantastic project with people who share my vision 
 
 ### Badges
 
+<img src = "https://github.com/cheqii/cheqii/blob/main/unity-certified-associate-game-developer.png" width = "300" height = "300">
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/cheqii"><img src="https://github-readme-stats.vercel.app/api?username=cheqii&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="cheqii's GitHub stats" /></a>
 
 <a href="https://github.com/cheqii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheqii&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<img src = "https://github.com/cheqii/cheqii/blob/main/unity-certified-associate-game-developer.png" width = "300" height = "300">
