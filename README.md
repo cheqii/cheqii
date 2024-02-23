@@ -32,8 +32,7 @@ I enjoy working together on a fantastic project with people who share my vision 
 
 ### Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6b579f03-bcf7-4475-8f6e-4a04f0f39fd6" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href = "https://www.credly.com/badges/6b579f03-bcf7-4475-8f6e-4a04f0f39fd6/public_url">
 
 <img src = "https://github.com/cheqii/cheqii/blob/main/unity-certified-associate-game-developer.png" width = "300" height = "300">
 
