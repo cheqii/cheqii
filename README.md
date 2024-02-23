@@ -9,7 +9,7 @@ I enjoy working together on a fantastic project with people who share my vision 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Here!](http://bit.ly/thanajan-saesum-portfolio)
 * ✉️  You can contact me at [thanajan.ssm@gmail.com](mailto:thanajan.ssm@gmail.com)
-* 🚀  I'm currently working on [Lost Heaven Station](http://sites.google.com/view/varnonsoft/home)
+* 🚀  I'm currently working on [Lost Heaven Station](http://sites.google.com/view/varnonsoft/home) as a programmer + tech art
 * ⚡  I want to learn and do everything because I secretly want to become an indie game developer.
 
 ### Skills
