@@ -32,7 +32,7 @@ I enjoy working together on a fantastic project with people who share my vision 
 
 ### Badges
 
-<a href = "https://www.credly.com/badges/6b579f03-bcf7-4475-8f6e-4a04f0f39fd6/public_url"> Unity Cert Verify </a>
+<a href = "https://www.credly.com/badges/6b579f03-bcf7-4475-8f6e-4a04f0f39fd6/public_url"> <b> Unity Cert Verify </b> </a>
   
 <img src = "https://github.com/cheqii/cheqii/blob/main/unity-certified-associate-game-developer.png" width = "300" height = "300">
 
