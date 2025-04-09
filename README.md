@@ -9,7 +9,6 @@ I enjoy working together on a fantastic project with people who share my vision 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Here!](http://bit.ly/thanajan-saesum-portfolio)
 * ✉️  You can contact me at [thanajan.ssm@gmail.com](mailto:thanajan.ssm@gmail.com)
-* 🚀  I'm currently working on [Lost Heaven Station](http://sites.google.com/view/varnonsoft/home) as a programmer + tech art
 * ⚡  My favourite movie is "The Mitchells VS The Machine" on Netflix 🍿
 
 ### Skills
