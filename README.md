@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanajan Saesum AKA Qiqi
 ================================================================================================================================================
 
-A student at Bangkok University (Game Developer)
-------------------------------------------------
-
 I enjoy working together on a fantastic project with people who share my vision or goals! Also, I enjoy working on my projects, reading books, playing games, and watching movies in my spare time. And I have an objective to learn more about Programming and Development Techniques in Game Development.
 
 * 🌍  I'm based in Bangkok, Thailand
